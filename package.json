@@ -1,0 +1,19 @@
+{
+  "name": "cr-p",
+  "version": "1.0.0",
+  "description": "I'm putting some practice code here. I will be creating small apps just to play around.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgefclay/cr-p.git"
+  },
+  "author": "George Clay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgefclay/cr-p/issues"
+  },
+  "homepage": "https://github.com/georgefclay/cr-p#readme"
+}
